@@ -12,4 +12,5 @@ int main(){
         x = sqrt(2+x);
     }
     cout<<x<<endl;
+    cout<<x<< "I'm ready"<<endl;
 }
